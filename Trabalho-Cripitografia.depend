@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536418172 source:c:\users\renato\desktop\trabalho-cripitografia\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	"Criptoteca.h"
+
+1536674945 c:\users\renato\desktop\trabalho-cripitografia\criptoteca.h
+
